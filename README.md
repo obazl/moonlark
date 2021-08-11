@@ -1,2 +1,2 @@
 # moonlark
-Lua binding for Sealark - Starlark parser
+Lua binding for [Sealark](https://github.com/obazl/sealark) - Starlark parser
