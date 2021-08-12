@@ -1,0 +1,6 @@
+
+edit catchers passed to walkers in handlers table
+
+predicate => action
+
+
